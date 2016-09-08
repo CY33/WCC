@@ -1,1 +1,3 @@
 <h1>Katherine Johnson</h1>
+<p>In 2015, Johnson was awarded the <strong>Presidential Medal of Freedom<strong>.
+<p>Katherine Johnson, an African-American space scientist and mathematician, is a leading figure in American space history and has made enormous contributions to America's aeronautics and space programs by her incorporation of computing tools.</p>
